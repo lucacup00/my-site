@@ -1,0 +1,161 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* Stili per i titoli h1 */
+
+.bg-light {
+  color: black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: white;
+}
+
+/*buttone dark/light*/
+.button29 {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  text-decoration: none;
+  border: 0.5em solid rgba(0, 0, 0, 0);
+  border-radius: 100%;
+  background: rgb(245, 245, 245)
+    linear-gradient(rgb(245, 245, 245), rgb(188, 192, 193)) 50% 50% /
+    calc(1.5em + 0.5em * 2) calc(1.5em + 0.5em * 2);
+
+  box-shadow: inset 0 -3px 10px rgba(255, 255, 255, 1),
+    inset 0 3px 10px rgba(0, 0, 0, 0.4), 0 2px 4px rgba(0, 0, 0, 0.9);
+}
+
+/*scritta hi,I'm Luca..*/
+.scritta {
+  font-family: "poppins", sans-serif;
+  align-items: center;
+  letter-spacing: 3px;
+  font-size: 45px;
+  color: white;
+  width: 30%;
+  position: absolute;
+  top: 25%;
+  left: 5%;
+}
+/*scritta about me*/
+.me {
+  letter-spacing: 2px;
+  font-family: "poppies", sans-serif;
+  color: rgb(98, 95, 95);
+  position: absolute;
+  top: 1080px;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  font-size: 40px;
+}
+
+/*scritta descrizione..*/
+.aboutMe {
+  font-size: 20px;
+  font-family: "poppies", sans-serif;
+  color: white;
+  width: 90%;
+  position: absolute;
+  top: 1100px;
+  left: 5%;
+  padding: 20px;
+  background: #333;
+  text-align: center;
+  box-shadow: 0 20px 50px rgb(0, 0, 0, 0.5);
+}
+
+/*tabella skills*/
+.center {
+  width: 80%;
+  position: absolute;
+  top: 1700px;
+  left: 10%;
+  padding: 20px;
+  background: #333;
+  box-sizing: border-box;
+  box-shadow: 0 20px 50px rgb(0, 0, 0, 0.5);
+  display: block;
+}
+
+/* h2 tabella skills*/
+h2 {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "poppins", sans-serif;
+  letter-spacing: 2px;
+}
+
+/*tabella skills*/
+.skillBox {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 20px 0;
+}
+
+/*tabella skills*/
+.skillBox p {
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+  padding: 0;
+  font-family: "poppins", sans-serif;
+  letter-spacing: 1px;
+}
+
+/*tabella skills*/
+.skillBox p:nth-child(2) {
+  float: right;
+  position: relative;
+  top: -25px;
+}
+
+/*tabella skills*/
+.skill {
+  background: #262626;
+  padding: 4px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+/*tabella skills*/
+.skill_level {
+  background: #ff0f0f;
+  width: 100%;
+  height: 10px;
+}
+
+/*i miei lavori*/
+.wk {
+  font-family: "poppins", sans-serif;
+  color: rgb(98, 95, 95);
+  letter-spacing: 1px;
+  top: 100px;
+  font-size: 50px;
+}
+
+td {
+  width: 50px;
+}
+
+.fa-instagram {
+  color: #333333;
+  color: white;
+}
+
+.fa-facebook {
+  background: #333333;
+  color: white;
+}
