@@ -1,5 +1,5 @@
 var changeColor = document.getElementById('changeColor'),
-ArayDiColore = ['white', '#333333'];
+ArayDiColore = ['#FFFFE0', '#333333'];
 let ColoreIndex = 0;
 
 changeColor.addEventListener('click', () => {
@@ -39,6 +39,126 @@ var element = document.getElementById("8");
 element.classList.toggle("mystyle");
 });
 
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("9");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("10");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("11");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("12");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("13");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("14");
+element.classList.toggle("mystyle");
+});
+
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("15");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("16");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("17");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("18");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("19");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("20");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("21");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("22");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("23");
+element.classList.toggle("mystyle");
+});
+
+var scritta2 = document.getElementById("changeColor");
+scritta2.addEventListener("click", () => {
+var element = document.getElementById("24");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("25");
+element.classList.toggle("mystyle");
+});
+
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("26");
+element.classList.toggle("mystyle");
+});
+
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("27");
+element.classList.toggle("mystyle");
+});
+var scritta = document.getElementById("changeColor");
+scritta.addEventListener("click", () => {
+var element = document.getElementById("28");
+element.classList.toggle("mystyle");
+});
+
+
+
+
+
+
+
+
+
 
 
 //cambio colore scritta NavBar
@@ -65,6 +185,21 @@ scritta4.addEventListener("click", () => {
 var element = document.getElementById("contact");
 element.classList.toggle("mystyle");
 });
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
